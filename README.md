@@ -1,6 +1,6 @@
 # A Clear Architecture
 
-In my experience, development approaches like [Domain-Driven Design] and structural concepts as the [Hexagonal Architecture] or the [Onion Architecture] carry a lot of wisdom but don't necessarily provide practical guidance when it comes to starting off with a new project. After several unsatisfactory experiments, I felt a sort of relief when I first read about the [Clean Architecture], which nicely aggregates some high-level concepts while simplifying things at the same time.
+In my experience, development approaches like [Domain-Driven Design] and structural concepts as the [Hexagonal Architecture] or the [Onion Architecture] carry a lot of wisdom but don't necessarily provide practical guidance when it comes to starting off with a new project. After several unsatisfactory experiments, I felt a sort of relief when I first read about the [Clean Architecture], which nicely aggregates some high-level concepts while at the same time simplifying things.
 
 However, even the Clean Architecture doesn't provide a simple-to-follow recipe for layouting a project, naming classes, files and directories and deciding where to settle a particular functionality. So I trial-and-errored myself to the point where I had a rather concise, opinionated implementation of the Clean Architecture that prove useful in several projects — even and especially in combination with each other. Let me introduce you to the **Clear Architecture**.  
 
